@@ -35,6 +35,21 @@ AI/ML engineer focusing on production-ready systems in computer vision, ML APIs,
 
 ---
 
+## Featured Case Study — FriendCircle (expanded)
+
+Polished Android UI sample implemented in Kotlin and Jetpack Compose. This repo focuses on performant lists (LazyColumn & LazyRow), accessible avatar components, and Compose previews for both populated and empty states. Key highlights:
+
+- Reusable composables: FriendRow, FriendAvatar
+- Stable list keys to preserve item identity
+- Accessible content descriptions and empty-state previews
+- Run: open in Android Studio, build app, or run `./gradlew assembleDebug`
+
+Demo: add `./assets/friendcircle-demo.gif` to show an animated preview in the README.
+
+Repository: https://github.com/Sreedev-a/FriendCircle
+
+---
+
 ## Toolbox
 
 Python · TensorFlow · Keras · scikit-learn · OpenCV · FastAPI · PostgreSQL · Next.js · React · TypeScript · Docker · Git · Jupyter

@@ -7,7 +7,7 @@
       <stop offset="100%" stop-color="#081022"/>
     </linearGradient>
     <radialGradient id="accent" cx="70%" cy="25%" r="60%">
-      <stop offset="0%" stop-color="#00d9ff" stop-opacity="0.08"/>
+      <stop offset="0%" stop-color="#9ad8ff" stop-opacity="0.08"/>
       <stop offset="100%" stop-color="#6b5cff" stop-opacity="0"/>
     </radialGradient>
     <filter id="glassBlur" x="-30%" y="-30%" width="160%" height="160%">
@@ -76,7 +76,7 @@
       <g transform="translate(22,18)">
         <rect x="0" y="0" width="200" height="136" rx="10" fill="#071021" stroke="rgba(255,255,255,0.02)"/>
         <rect x="10" y="10" width="180" height="116" rx="8" fill="rgba(0,0,0,0.45)"/>
-        <rect x="26" y="26" width="72" height="44" rx="6" fill="rgba(0,200,255,0.06)" stroke="#00d9ff" opacity="0.22"/>
+        <rect x="26" y="26" width="72" height="44" rx="6" fill="rgba(154,216,255,0.06)" stroke="#9ad8ff" opacity="0.22"/>
         <rect x="108" y="26" width="72" height="44" rx="6" fill="rgba(107,92,255,0.03)" stroke="#6b5cff" opacity="0.12"/>
 
         <g transform="translate(0,92)" fill="#9fb4ff" font-size="12">
@@ -85,7 +85,7 @@
       </g>
 
       <!-- decoration orbs -->
-      <circle cx="360" cy="50" r="28" fill="#00d9ff" opacity="0.06">
+      <circle cx="360" cy="50" r="28" fill="#9ad8ff" opacity="0.06">
         <animate attributeName="cy" from="44" to="56" dur="9s" repeatCount="indefinite"/>
       </circle>
     </g>
