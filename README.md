@@ -2,7 +2,7 @@
 
 > AI/ML Engineer · Production Systems · Computer Vision · Generative AI
 
-<img src="./assets/hero-section.svg" alt="Sreedev A: AI/ML Engineer" width="100%" style="display:block;margin:40px 0 60px;border-radius:16px;" />
+<img src="./assets/hero-section.svg" alt="Sree Dev A: AI/ML Engineer" width="100%" style="display:block;margin:40px 0 60px;border-radius:16px;" />
 
 ---
 
