@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="160" viewBox="0 0 520 160" preserveAspectRatio="xMidYMid">
+  <rect width="520" height="160" rx="12" fill="#071021" />
+  <rect x="8" y="8" width="504" height="144" rx="10" fill="rgba(255,255,255,0.01)" stroke="rgba(255,255,255,0.03)"/>
+  <text x="24" y="44" font-family="-apple-system" font-size="18" fill="#ffffff">Top Languages</text>
+  <image href="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreedev-a&layout=compact&theme=transparent&hide_border=true" x="24" y="64" width="472" height="76" preserveAspectRatio="xMidYMid meet"/>
+</svg>

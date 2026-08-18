@@ -2,17 +2,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="520" height="320" viewBox="0 0 520 320">
   <rect width="520" height="320" rx="12" fill="#071021" />
   <rect x="12" y="12" width="496" height="296" rx="10" fill="rgba(255,255,255,0.02)" stroke="rgba(255,255,255,0.03)"/>
-  <text x="28" y="40" font-family="-apple-system" font-size="18" fill="#ffffff">Attendance Register ERP</text>
-  <text x="28" y="66" font-size="12" fill="#cfe9ff">Android attendance ERP with authentication, role-based access and real-time sync.</text>
+  <text x="28" y="40" font-family="-apple-system" font-size="18" fill="#ffffff">meetmux</text>
+  <text x="28" y="66" font-size="12" fill="#cfe9ff">Repository containing ML environment setup, notebooks and tasks used in early phases of the MeetMux project.</text>
 
-  <!-- mobile mockup -->
   <g transform="translate(36,96)">
     <rect x="0" y="0" width="120" height="220" rx="18" fill="#061018" stroke="rgba(255,255,255,0.03)"/>
     <rect x="10" y="18" width="100" height="20" rx="6" fill="#091428"/>
     <rect x="10" y="50" width="100" height="120" rx="6" fill="#0a1626"/>
   </g>
 
-  <g transform="translate(180,120)" fill="#cfe9ff" font-size="12">
-    <text>Android · Java/Kotlin · Firebase · XML</text>
-  </g>
+  <text x="28" y="280" font-size="12" fill="#9fb4ff">Repository: https://github.com/Sreedev-a/meetmux</text>
 </svg>

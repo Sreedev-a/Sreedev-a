@@ -7,13 +7,13 @@
 ---
 
 <p align="center">
-  <a href="https://sreedev-a.github.io" title="Portfolio"><img src="./assets/icons/portfolio.svg" alt="portfolio" width="28" /></a>
+  <a href="https://sreedev-a.github.io" title="Portfolio"><img src="./assets/icons/portfolio.svg" alt="portfolio" width="32" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sreedev514162/" title="LinkedIn"><img src="./assets/icons/linkedin.svg" alt="linkedin" width="28" /></a>
+  <a href="https://www.linkedin.com/in/sreedev514162/" title="LinkedIn"><img src="./assets/icons/linkedin.svg" alt="linkedin" width="32" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:sreedev514162@gmail.com" title="Email"><img src="./assets/icons/email.svg" alt="email" width="28" /></a>
+  <a href="mailto:sreedev514162@gmail.com" title="Email"><img src="./assets/icons/email.svg" alt="email" width="32" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Sreedev-a" title="GitHub"><img src="./assets/icons/github.svg" alt="github" width="28" /></a>
+  <a href="https://github.com/Sreedev-a" title="GitHub"><img src="./assets/icons/github.svg" alt="github" width="32" /></a>
 </p>
 
 ---
@@ -31,46 +31,65 @@ I design and deploy production-ready AI systems that solve real problems — fro
 
 <div align="center">
   <img src="./assets/github-footer.svg" alt="current role card" width="560" />
-  <p style="margin-top:4px; color:#9fb4ff;">AI/ML Engineer — <strong>Meetmux</strong> · Jan 2026 — Present</p>
+  <p style="margin-top:6px; color:#9fb4ff;">AI/ML Engineer — <strong>Meetmux</strong> · Jan 2026 — Present</p>
 </div>
 
 ---
 
 ## Selected Work
 
-<p align="center">
-  <table>
+<p align="center" style="max-width:1000px; margin:0 auto;">
+  <table style="width:100%; border-collapse:collapse;">
     <tr>
-      <td valign="top" width="48%">
+      <td valign="top" style="padding:6px; width:50%;">
         <a href="https://github.com/Sreedev-a/FriendCircle">
-          <img src="./assets/project-proctoring.svg" alt="AI Proctoring" width="100%" />
+          <img src="./assets/project-proctoring.svg" alt="FriendCircle" style="width:100%; border-radius:12px;" />
         </a>
       </td>
-      <td valign="top" width="4%"></td>
-      <td valign="top" width="48%">
+      <td valign="top" style="padding:6px; width:50%;">
         <a href="https://github.com/Sreedev-a/Task3_Core_Architecture">
-          <img src="./assets/project-retinal.svg" alt="Retinal AI" width="100%" />
+          <img src="./assets/project-retinal.svg" alt="Task3 Core" style="width:100%; border-radius:12px;" />
         </a>
       </td>
     </tr>
-    <tr><td colspan="3" height="16"></td></tr>
+    <tr><td colspan="2" style="height:12px"></td></tr>
     <tr>
-      <td valign="top" width="48%">
+      <td valign="top" style="padding:6px; width:50%;">
         <a href="https://github.com/Sreedev-a/Task4_Preprocessing">
-          <img src="./assets/project-gesture.svg" alt="Gesture Recognition" width="100%" />
+          <img src="./assets/project-gesture.svg" alt="Task4 Preprocessing" style="width:100%; border-radius:12px;" />
         </a>
       </td>
-      <td valign="top" width="4%"></td>
-      <td valign="top" width="48%">
-        <a href="https://github.com/Sreedev-a/FriendCircle">
-          <img src="./assets/project-attendance.svg" alt="Attendance ERP" width="100%" />
+      <td valign="top" style="padding:6px; width:50%;">
+        <a href="https://github.com/Sreedev-a/meetmux">
+          <img src="./assets/project-attendance.svg" alt="meetmux" style="width:100%; border-radius:12px;" />
         </a>
       </td>
     </tr>
   </table>
 </p>
 
-*Primary highlight:* AI-Proctored Assessment Platform — real-time webcam proctoring, phone detection, multi-person detection, look-away monitoring, adaptive assessments and candidate dashboards.
+<p style="max-width:1000px; margin:8px auto 0; color:#dfe9ff;">
+  <strong>Primary highlight — FriendCircle (Android)</strong>: an Android sample app implementing efficient scrollable lists using Jetpack Compose (LazyColumn/LazyRow), reusable components and accessible avatars. Repository demonstrates practical mobile UI patterns and Compose best practices.
+</p>
+
+<p style="max-width:1000px; margin:8px auto 24px; color:#cfe9ff; font-size:13px;">
+  <strong>Task3_Core_Architecture</strong>: project scaffolding for core ML training pipelines — config-driven training, baseline models and evaluation scripts (Python, scikit-learn).
+</p>
+
+<p style="max-width:1000px; margin:8px auto 24px; color:#cfe9ff; font-size:13px;">
+  <strong>Task4_Preprocessing</strong>: preprocessing and pipeline utilities. Includes a build_preprocessor() function and a train script that serializes the fitted preprocessor (models/preprocessor.pkl) for downstream inference.
+</p>
+
+<p style="max-width:1000px; margin:8px auto 24px; color:#cfe9ff; font-size:13px;">
+  <strong>meetmux</strong>: repository contains ML environment setup, notebooks and early-phase tasks used in the MeetMux project.
+</p>
+
+<p style="max-width:1000px; margin:12px auto;">
+  <!-- demo placeholders -->
+  <img src="./assets/demo-placeholder.svg" alt="demo placeholder" style="width:280px; border-radius:10px;" />
+  &nbsp;&nbsp;
+  <img src="./assets/demo-placeholder.svg" alt="demo placeholder" style="width:280px; border-radius:10px;" />
+</p>
 
 ---
 
@@ -101,19 +120,19 @@ Git · GitHub · Docker · VS Code · Jupyter · Cloudflare
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sreedev-a&show_icons=true&theme=dark&hide_border=true&card_width=600" alt="GitHub stats" />
+  <img src="./assets/stats-overview.svg" alt="stats overview" style="max-width:640px; width:100%; border-radius:12px;" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreedev-a&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+  <img src="./assets/stats-langs.svg" alt="top languages" style="max-width:520px; width:48%; border-radius:12px; margin-top:12px;" />
 </p>
 
 ---
 
 ## Let's Build Something Intelligent
 
-I'm interested in AI/ML engineering, computer vision, intelligent automation and building practical AI-powered products. I'm open to collaborations and engineering roles.
+I'm interested in AI/ML engineering, computer vision, intelligent automation and building practical AI-powered products. I welcome conversations about engineering roles and collaborations.
 
 <p align="center">
-  <a href="https://sreedev-a.github.io" style="text-decoration:none; color:#00d9ff;">Portfolio →</a>
+  <a href="https://sreedev-a.github.io" style="text-decoration:none; padding:10px 18px; border-radius:12px; background:linear-gradient(90deg,#062132,#0b2a45); color:#00d9ff; font-weight:600;">Visit my Portfolio →</a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sreedev514162/" style="text-decoration:none; color:#9fb4ff;">LinkedIn →</a>
 </p>
