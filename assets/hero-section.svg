@@ -1,0 +1,96 @@
+<svg viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="heroGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0e14;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0f131a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:rgba(154,216,255,0.1);stop-opacity:0" />
+      <stop offset="50%" style="stop-color:rgba(154,216,255,0.15);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgba(154,216,255,0.05);stop-opacity:0" />
+    </linearGradient>
+    <filter id="heroBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="0.8" />
+    </filter>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" />
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="400" fill="url(#heroGrad)"/>
+  
+  <!-- Radial accent glow (top right) -->
+  <circle cx="920" cy="40" r="180" fill="rgba(124,195,235,0.08)" filter="url(#heroBlur)" opacity="0.6"/>
+  <circle cx="120" cy="320" r="140" fill="rgba(85,142,178,0.06)" filter="url(#heroBlur)" opacity="0.5"/>
+  
+  <!-- Subtle grid lines -->
+  <g stroke="rgba(148,211,247,0.04)" stroke-width="1" opacity="0.4">
+    <line x1="0" y1="100" x2="1200" y2="100" />
+    <line x1="0" y1="200" x2="1200" y2="200" />
+    <line x1="0" y1="300" x2="1200" y2="300" />
+    <line x1="300" y1="0" x2="300" y2="400" />
+    <line x1="600" y1="0" x2="600" y2="400" />
+    <line x1="900" y1="0" x2="900" y2="400" />
+  </g>
+  
+  <!-- Main hero text -->
+  <g>
+    <!-- Name -->
+    <text x="60" y="120" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="72" font-weight="700" fill="#f5f7fa" letter-spacing="-2">
+      Sreedev A
+    </text>
+    
+    <!-- Title with blue accent -->
+    <text x="60" y="190" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="42" font-weight="600" fill="#e6f2f8" letter-spacing="-0.5">
+      AI/ML Engineer
+    </text>
+    
+    <!-- Accent line under title -->
+    <rect x="60" y="205" width="140" height="2" fill="#9ad8ff" opacity="0.8" />
+    
+    <!-- Specialties -->
+    <text x="60" y="260" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16" font-weight="500" fill="#a3b5c5" letter-spacing="0.3">
+      Machine Learning · Computer Vision · Generative AI · Production Systems
+    </text>
+  </g>
+  
+  <!-- Right side: glass code card -->
+  <g>
+    <!-- Glass card background -->
+    <rect x="800" y="80" width="340" height="280" rx="24" 
+          fill="url(#accentGrad)" opacity="0.05" stroke="rgba(211,238,255,0.15)" stroke-width="1.5" />
+    
+    <!-- Glass card inset light -->
+    <rect x="810" y="85" width="320" height="1" rx="0" fill="rgba(255,255,255,0.08)" opacity="0.6" />
+    
+    <!-- Card content -->
+    <g>
+      <!-- Label -->
+      <text x="820" y="110" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', monospace" font-size="11" font-weight="600" fill="#7a9fb3" letter-spacing="1" opacity="0.8">
+        CURRENT FOCUS
+      </text>
+      
+      <!-- Icon placeholder (code brackets) -->
+      <text x="830" y="165" font-family="monospace" font-size="48" font-weight="300" fill="rgba(154,216,255,0.25)">
+        &lt; /&gt;
+      </text>
+      
+      <!-- Text -->
+      <text x="820" y="200" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" font-weight="600" fill="#e6f2f8">
+        Production ML
+      </text>
+      <text x="820" y="223" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="400" fill="#9ca6b4" opacity="0.9">
+        Building reliable AI systems
+      </text>
+      <text x="820" y="243" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="400" fill="#9ca6b4" opacity="0.9">
+        from research to deployment.
+      </text>
+      
+      <!-- Accent dots -->
+      <circle cx="835" cy="285" r="3.5" fill="#9ad8ff" opacity="0.6" />
+      <circle cx="860" cy="285" r="3.5" fill="#9ad8ff" opacity="0.4" />
+      <circle cx="885" cy="285" r="3.5" fill="#9ad8ff" opacity="0.2" />
+    </g>
+  </g>
+</svg>

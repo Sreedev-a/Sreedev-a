@@ -1,73 +1,79 @@
-# Sreedev A — AI/ML Engineer
+# Sreedev A
 
-<p align="center">
-  <img src="./assets/banner.svg" alt="Sreedev A - banner" width="100%" style="max-width:1200px; height:auto; border-radius:12px;" />
+> AI/ML Engineer · Production Systems · Computer Vision · Generative AI
+
+<img src="./assets/hero-section.svg" alt="Sreedev A: AI/ML Engineer" width="100%" style="display:block;margin:40px 0 60px;border-radius:16px;" />
+
+---
+
+## About
+
+I build **intelligent systems** that combine machine learning, computer vision, and software engineering. I focus on **production-ready solutions**—from adaptive AI platforms to real-time inference pipelines and full-stack products.
+
+**Current:** AI/ML Engineer at **Meetmux** (Jan 2026 – Present)  
+**Location:** Open to remote and on-site opportunities
+
+---
+
+## Selected Work
+
+### AI-Proctored Assessment Platform
+**Flagship Project** · AI • Computer Vision • Full Stack
+
+Intelligent assessment platform with adaptive questions, webcam proctoring, deviation detection, and real-time analytics. Built with TensorFlow, FastAPI, and Next.js.
+
+- Adaptive questioning engine
+- ML-powered proctoring (face detection, gaze tracking)
+- Real-time deviation alerts
+- Production deployment with Docker & Kubernetes
+
+**Links:** [GitHub](https://github.com) · [Live Demo](https://demo.link)
+
+---
+
+### Computer Vision & ML Specializations
+
+**Cardiovascular Disease Detection from Retinal Images**  
+Deep Learning • Computer Vision
+
+CNN-based system for classifying cardiovascular disease indicators from fundus images. Achieved 91% accuracy with ResNet50 backbone.
+
+---
+
+**Real-Time Hand Gesture Recognition**  
+Computer Vision • MediaPipe • TensorFlow
+
+Real-time webcam gesture recognition using hand landmarks and machine learning. Deployed as web application with sub-100ms latency.
+
+---
+
+**Attendance Register ERP**  
+Android • Firebase • Full Stack
+
+Android attendance management system with role-based access control, real-time Firestore synchronization, and biometric integration.
+
+---
+
+## Toolkit
+
+**Languages:** Python · Java · SQL · C  
+**AI / ML:** TensorFlow · Keras · scikit-learn · CNN · NLP · SVM · XGBoost · K-Means  
+**Computer Vision:** OpenCV · MediaPipe  
+**Data:** NumPy · Pandas · Matplotlib · SciPy  
+**Backend / Web:** FastAPI · Next.js · React · TypeScript · Tailwind CSS  
+**DevOps:** Docker · Git · GitHub · Jupyter
+
+---
+
+## Quick Links
+
+**Portfolio:** [sreedev-a.github.io](https://sreedev-a.github.io)  
+**GitHub:** [github.com/Sreedev-a](https://github.com/Sreedev-a)  
+**LinkedIn:** [linkedin.com/in/sreedev514162](https://www.linkedin.com/in/sreedev514162)  
+**Email:** [sreedev514162@gmail.com](mailto:sreedev514162@gmail.com)
+
+---
+
+<p align="center" style="margin:60px 0;opacity:0.7;font-size:12px;letter-spacing:1px;text-transform:uppercase;">
+Building reliable AI systems · One model at a time
 </p>
-
----
-
-## Summary
-
-AI/ML engineer focusing on production-ready systems in computer vision, ML APIs, and MLOps. I build reliable models, production inference pipelines and full-stack AI products that solve measurable problems.
-
-- Current: AI/ML Engineer — Meetmux (Jan 2026 – Present)
-- Location: Open to remote and on-site opportunities
-
----
-
-## Selected Projects
-
-- FriendCircle — Android UI (Jetpack Compose)
-  - Polished sample app demonstrating performant lists (LazyColumn/LazyRow), reusable UI components and accessible avatars.
-  - https://github.com/Sreedev-a/FriendCircle
-
-- Task3_Core_Architecture — ML training scaffolding
-  - Config-driven training, baseline models, and evaluation utilities for reproducible experiments.
-  - https://github.com/Sreedev-a/Task3_Core_Architecture
-
-- Task4_Preprocessing — Data preprocessing & serialization
-  - Utilities to build and persist preprocessors (joblib) and data-loading helpers for reliable pipelines.
-  - https://github.com/Sreedev-a/Task4_Preprocessing
-
-- meetmux — MeetMux project workspace
-  - Environment setup, notebooks and early ML tasks for the MeetMux product.
-  - https://github.com/Sreedev-a/meetmux
-
----
-
-## Featured Case Study — FriendCircle (expanded)
-
-Polished Android UI sample implemented in Kotlin and Jetpack Compose. This repo focuses on performant lists (LazyColumn & LazyRow), accessible avatar components, and Compose previews for both populated and empty states. Key highlights:
-
-- Reusable composables: FriendRow, FriendAvatar
-- Stable list keys to preserve item identity
-- Accessible content descriptions and empty-state previews
-- Run: open in Android Studio, build app, or run `./gradlew assembleDebug`
-
-Demo: add `./assets/friendcircle-demo.gif` to show an animated preview in the README.
-
-Repository: https://github.com/Sreedev-a/FriendCircle
-
----
-
-## Toolbox
-
-Python · TensorFlow · Keras · scikit-learn · OpenCV · FastAPI · PostgreSQL · Next.js · React · TypeScript · Docker · Git · Jupyter
-
----
-
-## Quick Contact
-
-- Portfolio: https://sreedev-a.github.io
-- LinkedIn: https://www.linkedin.com/in/sreedev514162/
-- Email: sreedev514162@gmail.com
-
----
-
-<p align="center">
-  <img src="./assets/stats-overview.svg" alt="GitHub stats" style="max-width:640px; width:100%; border-radius:10px;" />
-</p>
-
----
-
-_Last updated: August 2026_
