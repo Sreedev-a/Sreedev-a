@@ -1,9 +1,9 @@
 # Sreedev A — AI/ML Engineer
 
 <p align="center">
-  <!-- Use portfolio hero visuals alongside SVG banner for consistency -->
+  <!-- Use local optimized cover images to mirror portfolio visuals -->
   <picture>
-    <source srcset="https://sreedev-a.github.io/ai-proctoring-cover.png" type="image/png">
+    <source srcset="./assets/ai-proctoring-cover.svg" type="image/svg+xml">
     <img src="./assets/banner.svg" alt="Sreedev A - banner" width="100%" style="max-width:1200px; height:auto; border-radius:14px;" />
   </picture>
 </p>
@@ -42,7 +42,7 @@ I design and ship practical AI products — from research-grade models to full-s
 
 ## Selected Work
 
-A visual selection of my recent projects. Click each card to open the repository. Add a demo GIF to ./assets/{repo}-demo.gif to enable animated previews.
+A visual selection of my recent projects. Click each card to open the repository. Animated demos (GIF) will play when present.
 
 <div align="center" style="max-width:1100px; margin:0 auto;">
 
@@ -52,7 +52,7 @@ A visual selection of my recent projects. Click each card to open the repository
     <td style="width:50%; padding:8px; vertical-align:top;">
       <a href="https://github.com/Sreedev-a/FriendCircle" title="FriendCircle">
         <picture>
-          <source srcset="https://sreedev-a.github.io/ai-proctoring-cover.png" type="image/png">
+          <source srcset="./assets/ai-proctoring-cover.svg" type="image/svg+xml">
           <img src="./assets/project-proctoring.svg" alt="FriendCircle" style="width:100%; border-radius:12px;" />
         </picture>
       </a>
@@ -63,7 +63,7 @@ A visual selection of my recent projects. Click each card to open the repository
     <td style="width:50%; padding:8px; vertical-align:top;">
       <a href="https://github.com/Sreedev-a/Task3_Core_Architecture" title="Task3 Core Architecture">
         <picture>
-          <source srcset="https://sreedev-a.github.io/retinal-diagnostics-cover.png" type="image/png">
+          <source srcset="./assets/retinal-diagnostics-cover.svg" type="image/svg+xml">
           <img src="./assets/project-retinal.svg" alt="Task3 Core" style="width:100%; border-radius:12px;" />
         </picture>
       </a>
@@ -78,7 +78,7 @@ A visual selection of my recent projects. Click each card to open the repository
     <td style="width:50%; padding:8px; vertical-align:top;">
       <a href="https://github.com/Sreedev-a/Task4_Preprocessing" title="Task4 Preprocessing">
         <picture>
-          <source srcset="https://sreedev-a.github.io/hand-gesture-cover.png" type="image/png">
+          <source srcset="./assets/hand-gesture-cover.svg" type="image/svg+xml">
           <img src="./assets/project-gesture.svg" alt="Task4 Preprocessing" style="width:100%; border-radius:12px;" />
         </picture>
       </a>
@@ -89,7 +89,7 @@ A visual selection of my recent projects. Click each card to open the repository
     <td style="width:50%; padding:8px; vertical-align:top;">
       <a href="https://github.com/Sreedev-a/meetmux" title="MeetMux">
         <picture>
-          <source srcset="https://sreedev-a.github.io/attendance-erp-cover.png" type="image/png">
+          <source srcset="./assets/attendance-erp-cover.svg" type="image/svg+xml">
           <img src="./assets/project-attendance.svg" alt="meetmux" style="width:100%; border-radius:12px;" />
         </picture>
       </a>

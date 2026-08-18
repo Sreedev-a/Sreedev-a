@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="520" viewBox="0 0 920 520">
+  <defs>
+    <linearGradient id="bg2" x1="0" x2="1">
+      <stop offset="0%" stop-color="#071021"/>
+      <stop offset="100%" stop-color="#081028"/>
+    </linearGradient>
+  </defs>
+  <rect width="920" height="520" rx="14" fill="url(#bg2)" />
+  <rect x="12" y="12" width="896" height="496" rx="10" fill="rgba(255,255,255,0.02)" stroke="rgba(255,255,255,0.03)"/>
+
+  <text x="36" y="56" font-family="-apple-system" font-size="26" fill="#ffffff">Retinal Diagnostics — Cardiovascular Indicators</text>
+  <text x="36" y="88" font-size="14" fill="#cfe9ff">Deep-learning pipeline for detecting cardiovascular disease indicators in retinal fundus images.</text>
+
+  <g transform="translate(40,120)">
+    <circle cx="120" cy="86" r="70" fill="#06111e" stroke="#00d9ff" opacity="0.06" />
+    <circle cx="120" cy="86" r="48" fill="rgba(0,0,0,0.45)" />
+    <text x="220" y="60" fill="#9fb4ff" font-size="13">TensorFlow · Keras · OpenCV · CNN</text>
+  </g>
+</svg>

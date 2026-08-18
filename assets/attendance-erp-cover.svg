@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="520" viewBox="0 0 920 520">
+  <rect width="920" height="520" rx="14" fill="#071021" />
+  <rect x="12" y="12" width="896" height="496" rx="10" fill="rgba(255,255,255,0.02)" stroke="rgba(255,255,255,0.03)"/>
+
+  <text x="36" y="56" font-family="-apple-system" font-size="26" fill="#ffffff">Attendance Register ERP — Mobile</text>
+  <text x="36" y="88" font-size="14" fill="#cfe9ff">Android attendance ERP with authentication, role-based access and real-time sync (Firebase integration).</text>
+
+  <g transform="translate(36,120)">
+    <rect x="0" y="0" width="160" height="280" rx="18" fill="#061018" stroke="rgba(255,255,255,0.03)"/>
+    <rect x="18" y="26" width="124" height="18" rx="6" fill="#091428"/>
+    <rect x="18" y="66" width="124" height="160" rx="6" fill="#0a1626"/>
+  </g>
+
+  <text x="220" y="200" fill="#9fb4ff" font-size="13">Android · Java/Kotlin · Firebase · XML</text>
+</svg>
