@@ -1,7 +1,10 @@
 # Sreedev A — AI/ML Engineer
 
 <p align="center">
-  <img src="./assets/banner.svg" alt="Sreedev A - banner" width="100%" style="max-width:1200px; height:auto; border-radius:14px;" />
+  <picture>
+    <source srcset="./assets/banner-fallback.gif" type="image/gif">
+    <img src="./assets/banner.svg" alt="Sreedev A - banner" width="100%" style="max-width:1200px; height:auto; border-radius:14px;" />
+  </picture>
 </p>
 
 ---
@@ -44,7 +47,10 @@ Below are concise, recruiter-friendly summaries of the projects I maintain. Clic
 <summary><strong>FriendCircle — Android (Primary highlight)</strong></summary>
 
 <p>
-  <img src="./assets/project-proctoring.svg" alt="FriendCircle" style="width:100%; max-width:920px; border-radius:12px;" />
+  <picture>
+    <source srcset="./assets/friendcircle-demo.gif" type="image/gif">
+    <img src="./assets/project-proctoring.svg" alt="FriendCircle" style="width:100%; max-width:920px; border-radius:12px;" />
+  </picture>
 </p>
 
 <p style="color:#dfe9ff;">A polished Android sample app built with Jetpack Compose demonstrating efficient scrollable collections (LazyColumn, LazyRow), reusable UI components (FriendRow, FriendAvatar), accessible avatars, and mobile UI best practices. Useful for prototyping mobile identity interfaces and list performance.</p>
@@ -59,7 +65,10 @@ Below are concise, recruiter-friendly summaries of the projects I maintain. Clic
 <summary><strong>Task3_Core_Architecture — Core ML training</strong></summary>
 
 <p>
-  <img src="./assets/project-retinal.svg" alt="Task3 Core" style="width:100%; max-width:720px; border-radius:12px;" />
+  <picture>
+    <source srcset="./assets/task3-demo.gif" type="image/gif">
+    <img src="./assets/project-retinal.svg" alt="Task3 Core" style="width:100%; max-width:720px; border-radius:12px;" />
+  </picture>
 </p>
 
 <p style="color:#dfe9ff;">Project scaffolding for model training and evaluation. Includes a config-driven training flow, baseline DummyClassifier, evaluation scripts and experiment logging. Good reference for reproducible ML experiments and model evaluation pipelines.</p>
@@ -73,7 +82,10 @@ Below are concise, recruiter-friendly summaries of the projects I maintain. Clic
 <summary><strong>Task4_Preprocessing — Preprocessing & serialization</strong></summary>
 
 <p>
-  <img src="./assets/project-gesture.svg" alt="Task4 Preprocessing" style="width:100%; max-width:720px; border-radius:12px;" />
+  <picture>
+    <source srcset="./assets/task4-demo.gif" type="image/gif">
+    <img src="./assets/project-gesture.svg" alt="Task4 Preprocessing" style="width:100%; max-width:720px; border-radius:12px;" />
+  </picture>
 </p>
 
 <p style="color:#dfe9ff;">Data loading and preprocessing utilities. The repo contains a build_preprocessor() utility and a train.py which fits and serializes a preprocessor (models/preprocessor.pkl). Designed for reliable data transforms and rapid model prototyping.</p>
@@ -87,7 +99,10 @@ Below are concise, recruiter-friendly summaries of the projects I maintain. Clic
 <summary><strong>meetmux — ML environment & early tasks</strong></summary>
 
 <p>
-  <img src="./assets/project-attendance.svg" alt="meetmux" style="width:100%; max-width:720px; border-radius:12px;" />
+  <picture>
+    <source srcset="./assets/meetmux-demo.gif" type="image/gif">
+    <img src="./assets/project-attendance.svg" alt="meetmux" style="width:100%; max-width:720px; border-radius:12px;" />
+  </picture>
 </p>
 
 <p style="color:#dfe9ff;">Repository with ML environment setup, notebooks and initial machine learning tasks used by the MeetMux project. Contains reproducible environment scripts, notebooks and evaluation artifacts.</p>
@@ -138,7 +153,10 @@ Git · GitHub · Docker · VS Code · Jupyter · Cloudflare
 I'm interested in AI/ML engineering, computer vision, intelligent automation and building practical AI-powered products. I welcome conversations about engineering roles and collaborations.
 
 <p align="center">
-  <a href="https://sreedev-a.github.io" style="text-decoration:none; padding:12px 22px; border-radius:14px; background:linear-gradient(90deg,#061627,#093046); color:#00d9ff; font-weight:700; font-size:15px;">Visit my Portfolio →</a>
+  <picture>
+    <source srcset="./assets/banner-fallback.gif" type="image/gif">
+    <a href="https://sreedev-a.github.io" style="text-decoration:none; padding:12px 22px; border-radius:14px; background:linear-gradient(90deg,#061627,#093046); color:#00d9ff; font-weight:700; font-size:15px; display:inline-block;">Visit my Portfolio →</a>
+  </picture>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sreedev514162/" style="text-decoration:none; color:#9fb4ff; font-weight:600;">LinkedIn →</a>
 </p>
