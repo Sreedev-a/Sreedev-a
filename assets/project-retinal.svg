@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="320" viewBox="0 0 520 320">
+  <defs>
+    <linearGradient id="retinaBg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#071021"/>
+      <stop offset="100%" stop-color="#081028"/>
+    </linearGradient>
+  </defs>
+  <rect width="520" height="320" rx="12" fill="url(#retinaBg)" />
+  <rect x="12" y="12" width="496" height="296" rx="10" fill="rgba(255,255,255,0.02)" stroke="rgba(255,255,255,0.03)"/>
+  <text x="28" y="40" font-family="-apple-system" font-size="18" fill="#ffffff">Cardiovascular Detection — Retinal AI</text>
+  <text x="28" y="66" font-size="12" fill="#cfe9ff">Detecting cardiovascular disease indicators from retinal fundus images using CNNs.</text>
+
+  <!-- retina-like visualization -->
+  <g transform="translate(28,96)">
+    <circle cx="120" cy="60" r="56" fill="#071021" stroke="#00d9ff" opacity="0.06"/>
+    <circle cx="120" cy="60" r="44" fill="rgba(0,0,0,0.45)" stroke="rgba(255,255,255,0.02)"/>
+    <g fill="#9fb4ff" opacity="0.9" font-size="11">
+      <text x="220" y="26">Python · TensorFlow · Keras · OpenCV · CNN</text>
+    </g>
+  </g>
+
+</svg>

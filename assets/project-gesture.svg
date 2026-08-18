@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="320" viewBox="0 0 520 320">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1"><stop offset="0%" stop-color="#071021"/><stop offset="100%" stop-color="#081028"/></linearGradient>
+  </defs>
+  <rect width="520" height="320" rx="12" fill="url(#g1)" />
+  <rect x="12" y="12" width="496" height="296" rx="10" fill="rgba(255,255,255,0.02)" stroke="rgba(255,255,255,0.03)"/>
+  <text x="28" y="40" font-family="-apple-system" font-size="18" fill="#ffffff">Real-Time Hand Gesture Recognition</text>
+  <text x="28" y="66" font-size="12" fill="#cfe9ff">Webcam-based hand tracking with MediaPipe landmarks for gesture recognition.</text>
+
+  <!-- hand landmarks stylized -->
+  <g transform="translate(40,96)" stroke="#00d9ff" stroke-width="2" fill="none">
+    <circle cx="60" cy="36" r="6" fill="#00d9ff" opacity="0.16"/>
+    <circle cx="84" cy="24" r="5" fill="#9fb4ff" opacity="0.12"/>
+    <circle cx="104" cy="40" r="5" fill="#00d9ff" opacity="0.12"/>
+    <path d="M60 36 L84 24 L104 40" stroke="#6b5cff" stroke-opacity="0.4"/>
+  </g>
+
+  <g transform="translate(240,120)" fill="#cfe9ff" font-size="12">
+    <text>Python · OpenCV · MediaPipe · TensorFlow</text>
+  </g>
+</svg>
