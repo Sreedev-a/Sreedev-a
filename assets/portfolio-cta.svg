@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" role="img" aria-labelledby="t d">
+  <title id="t">Explore the full portfolio</title><desc id="d">Projects, Experience and Engineering Work</desc>
+  <defs><linearGradient id="b" x2="1"><stop stop-color="#08101a"/><stop offset="1" stop-color="#102438"/></linearGradient><radialGradient id="g"><stop stop-color="#8dd8ff" stop-opacity=".22"/><stop offset="1" stop-color="#8dd8ff" stop-opacity="0"/></radialGradient></defs>
+  <rect width="1200" height="210" rx="24" fill="url(#b)"/><circle cx="1040" cy="50" r="230" fill="url(#g)"/><rect x="1" y="1" width="1198" height="208" rx="23" fill="none" stroke="#8dd8ff" stroke-opacity=".22"/>
+  <text x="64" y="92" fill="#f2f8fc" font-family="Inter,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="38" font-weight="650">Explore the full portfolio</text>
+  <text x="64" y="138" fill="#9fb5c5" font-family="Inter,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="21">Projects  •  Experience  •  Engineering Work</text>
+  <rect x="1032" y="73" width="104" height="64" rx="32" fill="#8dd8ff" fill-opacity=".12" stroke="#8dd8ff" stroke-opacity=".45"/><path d="m1070 105h28m-10-10 10 10-10 10" fill="none" stroke="#bce9ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
