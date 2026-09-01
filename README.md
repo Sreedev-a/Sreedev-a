@@ -19,7 +19,7 @@ I'm an **AI/ML Engineer** with a B.Tech in Artificial Intelligence & Machine Lea
 
 ## Experience
 
-**AI/ML Engineer — Meetmux** · `Jan 2026 – Present`<br />
+**AI/ML Engineer — Meetmux** · `Jun 2026 – Present`<br />
 Building AI-powered features and production-minded ML systems.
 
 **Machine Learning Intern — Feyn Labs** · `Oct 2024 – Mar 2025`<br />
