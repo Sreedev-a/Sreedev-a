@@ -22,6 +22,19 @@ I'm an **AI/ML Engineer** with a B.Tech in Artificial Intelligence & Machine Lea
 **AI/ML Engineer — Meetmux** · `Jun 2026 – Present`<br />
 Building AI-powered features and production-minded ML systems.
 
+
+**Data Analysis Intern — Cognifyz Technologies** · `Mar 2026 – May 2026`<br />
+Worked on data analysis tasks and practical data-driven problem solving.
+
+**Cloud Engineering Intern — InternAge** · `Feb 2026 – May 2026`<br />
+Gained practical experience in cloud engineering concepts and workflows.
+
+
+**Superintelligence & AI Intern — Chiac ASI** · `Feb 2026 – May 2026`<br />
+Explored concepts and emerging approaches related to artificial intelligence and superintelligence.
+
+
+
 **Machine Learning Intern — Feyn Labs** · `Oct 2024 – Mar 2025`<br />
 Worked on generative AI research and model development.
 
