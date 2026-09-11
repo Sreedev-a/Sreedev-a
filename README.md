@@ -118,10 +118,19 @@ Intelligent online assessment platform combining adaptive testing, AI-powered we
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sreedev-a&theme=github_dark" alt="Sreedev A GitHub statistics" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sreedev-a&theme=github_dark" alt="Sreedev A repositories by language" height="165" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreedev-a&bg_color=0B1220&color=C7D5E0&line=8DD8FF&point=FFFFFF&area=true&hide_border=true" alt="Sreedev A contribution graph" width="100%" />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sreedev-a&theme=github_dark"
+    alt="Sreedev A GitHub statistics"
+    height="165"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sreedev-a&theme=github_dark"
+    alt="Sreedev A repositories by language"
+    height="165"
+  />
+
 </div>
 
 ## Engineering Notes
