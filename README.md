@@ -120,7 +120,7 @@ Intelligent online assessment platform combining adaptive testing, AI-powered we
 <div align="center">
 
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sreedev-a&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhijith14&theme=github_dark"
     alt="Sreedev A GitHub statistics"
     height="165"
   />
