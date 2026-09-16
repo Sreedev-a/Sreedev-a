@@ -10,6 +10,10 @@ I'm an **AI/ML Engineer** with a B.Tech in Artificial Intelligence & Machine Lea
 
 <img src="./assets/engineering-snapshot.svg" alt="AI/ML engineering, computer vision, agentic AI and full-stack AI" width="100%" />
 
+<p align="center">
+  <img src="./assets/animated-divider.svg" width="100%" alt="" />
+</p>
+
 ## Experience
 
 **AI/ML Engineer — Meetmux** · `Jun 2026 – Present`<br />
@@ -77,6 +81,10 @@ Intelligent online assessment platform combining adaptive testing, AI-powered we
 `Experiment · Computer vision` &nbsp; `Exploring · ML evaluation` &nbsp; `Prototype · FastAPI APIs`<br />
 `Exploring · Automation` &nbsp; `Experiment · Model optimization`
 
+<p align="center">
+  <img src="./assets/animated-divider-alt.svg" width="100%" alt="" />
+</p>
+
 ## Tech Ecosystem
 
 **Languages**<br />
@@ -107,6 +115,10 @@ Intelligent online assessment platform combining adaptive testing, AI-powered we
 - **[ML Environment Setup](https://github.com/Sreedev-a/meetmux)** — `Learning Build` · reproducible scikit-learn environment and MLflow smoke test.
 - **[Core ML Architecture](https://github.com/Sreedev-a/Task3_Core_Architecture)** — `Prototype` · configurable training, evaluation, and experiment logging structure.
 - **[Feature Profiling](https://github.com/Sreedev-a/task2_feature_profiling)** — `Experiment` · data and feature exploration workflow.
+
+<p align="center">
+  <img src="./assets/animated-divider.svg" width="100%" alt="" />
+</p>
 
 ## GitHub Activity
 
@@ -140,6 +152,10 @@ Building agentic AI systems, improving production-oriented ML engineering skills
 ## Education
 
 **B.Tech — Artificial Intelligence & Machine Learning** · `2024`
+
+<p align="center">
+  <img src="./assets/github-footer.svg" width="100%" alt="" />
+</p>
 
 <a href="https://sreedev-a.github.io"><img src="./assets/portfolio-cta.svg" alt="Explore the full portfolio — projects, experience and engineering work" width="100%" /></a>
 

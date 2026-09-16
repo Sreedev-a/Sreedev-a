@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100">
+  <title>Subtle neural network separator</title>
+  <defs>
+    <linearGradient id="connection" x2="1" y2="0">
+      <stop stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#38bdf8" stop-opacity="0.16"/>
+      <stop offset="0.7" stop-color="#38bdf8" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="haze">
+      <stop stop-color="#0891b2" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#071021" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="signalGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <ellipse cx="600" cy="50" rx="440" ry="48" fill="url(#haze)"/>
+  <g fill="none" stroke="#38bdf8" stroke-width="0.6" opacity="0.06">
+    <path d="M180 28H300M180 44H300M180 60H300M196 20V76M212 20V76M228 20V76"/>
+    <path d="M900 40H1020M900 56H1020M900 72H1020M972 24V80M988 24V80M1004 24V80"/>
+  </g>
+  <path d="M0 50H120L160 34H260L300 50H460L500 66H660L700 50H900L940 34H1040L1080 50H1200" fill="none" stroke="url(#connection)"/>
+  <g fill="none" stroke="#38bdf8" stroke-width="0.8" opacity="0.12">
+    <path d="M300 50L380 26L460 50L380 74ZM660 66L740 78L820 50L740 22L700 50M500 66L580 34L660 66"/>
+    <path d="M380 26L380 74M740 22V78"/>
+  </g>
+  <g fill="#38bdf8" opacity="0.2">
+    <circle cx="160" cy="34" r="2"/><circle cx="300" cy="50" r="2.5"/>
+    <circle cx="380" cy="26" r="2"/><circle cx="380" cy="74" r="2"/>
+    <circle cx="460" cy="50" r="2.5"/><circle cx="500" cy="66" r="2"/>
+    <circle cx="580" cy="34" r="2"/><circle cx="660" cy="66" r="2.5"/>
+    <circle cx="740" cy="22" r="2"/><circle cx="740" cy="78" r="2"/>
+    <circle cx="820" cy="50" r="2.5"/><circle cx="1040" cy="34" r="2"/>
+  </g>
+  <!-- One short packet traverses the network slowly. -->
+  <path d="M120 50L160 34H260L300 50H460L500 66H660L700 50H900L940 34H1040L1080 50" pathLength="1000" fill="none" stroke="#67e8f9" stroke-width="1.6" stroke-dasharray="8 992" stroke-dashoffset="1000" opacity="0.3" filter="url(#signalGlow)">
+    <animate attributeName="stroke-dashoffset" values="1000;0" dur="24s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.3;0.3;0" keyTimes="0;0.12;0.88;1" dur="24s" repeatCount="indefinite"/>
+  </path>
+  <g fill="#7dd3fc" opacity="0.1">
+    <circle cx="330" cy="18" r="1"/><circle cx="554" cy="80" r="1"/>
+    <circle cx="846" cy="28" r="1"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0;8 -3;0 0" dur="28s" repeatCount="indefinite"/>
+  </g>
+</svg>

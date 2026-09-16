@@ -33,6 +33,10 @@
       <path d="M48 0H0V48" fill="none" stroke="#94a3b8" stroke-opacity="0.035"/>
     </pattern>
     <clipPath id="frame"><rect x="1" y="1" width="1198" height="418" rx="24"/></clipPath>
+    <radialGradient id="atmosphereGlow">
+      <stop stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
   </defs>
 
   <g clip-path="url(#frame)">
@@ -44,6 +48,39 @@
     <circle cx="1050" cy="230" r="310" fill="url(#indigoOrb)">
       <animateTransform attributeName="transform" type="translate" values="0 0;-45 25;0 0" dur="28s" repeatCount="indefinite"/>
     </circle>
+
+    <!-- Additional engineering atmosphere stays behind the original artwork. -->
+    <g id="engineering-atmosphere" opacity="0.1">
+      <ellipse cx="600" cy="402" rx="380" ry="70" fill="url(#atmosphereGlow)"/>
+      <g fill="none" stroke="#38bdf8" stroke-width="0.75" opacity="0.6">
+        <path d="M66 318H226M66 338H226M66 358H226M86 308V378M106 308V378M126 308V378M146 308V378"/>
+        <path d="M976 44H1136M976 64H1136M976 84H1136M1016 34V104M1036 34V104M1056 34V104M1076 34V104"/>
+      </g>
+      <g fill="none" stroke="#67e8f9" stroke-width="1">
+        <path d="M52 92H170L206 56H322L346 32H478M724 32H826L850 56H936L970 90H1148"/>
+        <path d="M54 382H230L254 398H446M754 398H946L970 374H1148"/>
+        <path d="M58 348L106 322L152 366L198 338M106 322L198 338L230 382M992 64L1038 38L1084 82L1130 54M1038 38L1130 54"/>
+      </g>
+      <path d="M54 382H230L254 398H446" fill="none" stroke="#a5f3fc" stroke-width="2" stroke-dasharray="6 394">
+        <animate attributeName="stroke-dashoffset" values="400;0" dur="24s" repeatCount="indefinite"/>
+      </path>
+      <g fill="#7dd3fc">
+        <circle cx="58" cy="348" r="2"/><circle cx="152" cy="366" r="2"/>
+        <circle cx="198" cy="338" r="2"/><circle cx="992" cy="64" r="2"/>
+        <circle cx="1084" cy="82" r="2"/><circle cx="1130" cy="54" r="2"/>
+        <circle cx="106" cy="322" r="3">
+          <animate attributeName="opacity" values="0.5;0.5;1;0.5" keyTimes="0;0.65;0.8;1" dur="18s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="1038" cy="38" r="3">
+          <animate attributeName="opacity" values="0.5;0.5;1;0.5" keyTimes="0;0.5;0.7;1" dur="23s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+      <g fill="#a5f3fc" opacity="0.7">
+        <circle cx="326" cy="390" r="1"/><circle cx="516" cy="28" r="1"/>
+        <circle cx="868" cy="394" r="1"/><circle cx="682" cy="24" r="1"/>
+        <animateTransform attributeName="transform" type="translate" values="0 0;12 -3;0 0" dur="30s" repeatCount="indefinite"/>
+      </g>
+    </g>
 
     <!-- Stars remain away from the main typography. -->
     <g fill="#c5e9ff" opacity="0.5">
