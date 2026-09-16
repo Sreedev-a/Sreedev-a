@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 280" role="img" aria-labelledby="t d">
+  <title id="t">Animated retinal image analysis pipeline</title>
+  <desc id="d">Retinal scan with rotating rings, pulsing center, data flow, and vision pipeline status.</desc>
+  <defs>
+    <radialGradient id="bgGlow" cx="22%" cy="52%" r="70%">
+      <stop offset="0" stop-color="#12334a" stop-opacity=".34"/>
+      <stop offset=".48" stop-color="#0a1a29" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#07101a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="retinaFill" cx="50%" cy="50%" r="55%">
+      <stop offset="0" stop-color="#17364c"/>
+      <stop offset=".7" stop-color="#10283b"/>
+      <stop offset="1" stop-color="#0b1d2c"/>
+    </radialGradient>
+    <linearGradient id="scanGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8dd8ff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#8dd8ff" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#8dd8ff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="retinaClip"><circle cx="105" cy="145" r="62"/></clipPath>
+  </defs>
+
+  <!-- Existing dark professional base -->
+  <rect width="580" height="280" rx="22" fill="#07101a"/>
+  <rect width="580" height="280" rx="22" fill="url(#bgGlow)">
+    <animate attributeName="opacity" values=".55;.9;.55" dur="9s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Very subtle technical grid -->
+  <g stroke="#8dd8ff" stroke-opacity=".035" stroke-width="1">
+    <path d="M0 40H580M0 80H580M0 120H580M0 160H580M0 200H580M0 240H580"/>
+    <path d="M40 0V280M80 0V280M120 0V280M160 0V280M200 0V280M240 0V280M280 0V280M320 0V280M360 0V280M400 0V280M440 0V280M480 0V280M520 0V280M560 0V280"/>
+  </g>
+
+  <!-- Retina -->
+  <circle cx="105" cy="145" r="64" fill="url(#retinaFill)" stroke="#8dd8ff" stroke-opacity=".5"/>
+
+  <!-- Rotating scanner rings -->
+  <g fill="none" stroke="#8dd8ff" transform-origin="105px 145px">
+    <circle cx="105" cy="145" r="50" stroke-opacity=".13" stroke-dasharray="10 14"/>
+    <circle cx="105" cy="145" r="39" stroke-opacity=".09" stroke-dasharray="4 10"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 105 145" to="360 105 145" dur="18s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- Retinal vessels / analysis spokes -->
+  <g stroke="#8dd8ff" stroke-opacity=".45" fill="none" stroke-linecap="round">
+    <path d="M105 145 60 105m45 40 45-42m-45 42-48 48m48-48 47 47"/>
+  </g>
+
+  <!-- Scanner sweep clipped inside retina -->
+  <g clip-path="url(#retinaClip)" transform-origin="105px 145px">
+    <path d="M105 145 L105 76 A69 69 0 0 1 155 98 Z" fill="url(#scanGrad)" opacity=".22"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 105 145" to="360 105 145" dur="6.5s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- Pulsing optic center -->
+  <circle cx="105" cy="145" r="17" fill="#8dd8ff" fill-opacity=".65" filter="url(#softGlow)">
+    <animate attributeName="r" values="15;18;15" dur="2.8s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values=".48;.82;.48" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="105" cy="145" r="20" fill="none" stroke="#8dd8ff" stroke-opacity=".42">
+    <animate attributeName="r" values="19;31" dur="2.8s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values=".42;0" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Existing pipeline arrow -->
+  <g stroke="#8dd8ff" stroke-opacity=".45" fill="none">
+    <path d="M190 145h65m-12-10 12 10-12 10" stroke-width="2"/>
+    <rect x="280" y="87" width="245" height="116" rx="16">
+      <animate attributeName="stroke-opacity" values=".35;.58;.35" dur="5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Travelling data packet -->
+  <circle r="3.5" fill="#8dd8ff" filter="url(#softGlow)">
+    <animate attributeName="cx" values="190;250" dur="2.2s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="145;145" dur="2.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.18;.82;1" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Pipeline text preserved -->
+  <text x="302" y="125" fill="#8dd8ff" font-family="Inter,Arial,sans-serif" font-size="14" letter-spacing="2">VISION PIPELINE</text>
+  <text x="302" y="158" fill="#f3f8fb" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="650">Retinal Analysis</text>
+  <text x="302" y="184" fill="#9eb4c3" font-family="Inter,Arial,sans-serif" font-size="14">Preprocess → CNN → Signals</text>
+
+  <!-- Small pipeline status pulse -->
+  <circle cx="503" cy="111" r="3" fill="#8dd8ff">
+    <animate attributeName="opacity" values=".25;1;.25" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="2.5;3.5;2.5" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
