@@ -1,19 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Sree Dev A
-
-### AI/ML Engineer · Computer Vision · Deep Learning · Generative AI
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Building+Intelligent+Systems+with+AI;Machine+Learning+%7C+Computer+Vision+%7C+LLMs;Turning+AI+Ideas+into+Real-World+Applications" alt="Typing SVG" />
+<img src="./assets/github-banner.svg" width="100%" alt="Sree Dev A — AI/ML Engineer"/>
 
 <br/>
 
-<a href="https://sreedev-a.github.io">
-  <img src="https://img.shields.io/badge/PORTFOLIO-Visit-111827?style=for-the-badge&logo=safari&logoColor=white" />
-</a>
-<a href="https://github.com/Sreedev-a">
-  <img src="https://img.shields.io/badge/GITHUB-Sreedev--a-181717?style=for-the-badge&logo=github" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&center=true&vCenter=true&width=850&lines=Building+Production-Ready+AI+Systems;Computer+Vision+%E2%80%A2+Deep+Learning+%E2%80%A2+LLMs;From+Model+Training+to+Real-World+Deployment" />
 
 </div>
 
