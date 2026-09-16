@@ -28,7 +28,7 @@
 
     <g transform="translate(0,88)" fill="#9fb4ff" font-size="13">
       <text x="0" y="0">• Real-time video monitoring</text>
-      <text x="0" y="24">• Evidence capture & candidate dashboards</text>
+      <text x="0" y="24">• Evidence capture &amp; candidate dashboards</text>
       <text x="0" y="48">• FastAPI · Next.js · Computer Vision</text>
     </g>
   </g>

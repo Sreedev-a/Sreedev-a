@@ -1,157 +1,219 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="Sreedev A — AI/ML Engineer" width="100%" />
-
-  <br />
-
-  <a href="https://sreedev-a.github.io"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=safari&logoColor=8DD8FF" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/sreedev514162/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=8DD8FF" alt="LinkedIn" /></a>
-  <a href="https://github.com/Sreedev-a"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=8DD8FF" alt="GitHub" /></a>
-  <a href="mailto:sreedev514162@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=8DD8FF" alt="Email" /></a>
+  <img src="./assets/github-banner.svg" width="100%" alt="Sree Dev A — AI / ML Engineer. Machine learning, computer vision and generative AI." />
 </div>
-
-## About
-
-I'm an **AI/ML Engineer** with a B.Tech in Artificial Intelligence & Machine Learning. I build intelligent software systems across machine learning, computer vision, generative AI, agents, and automation—with an emphasis on turning experiments into usable applications.
-
-## Engineering Snapshot
-
-<img src="./assets/engineering-snapshot.svg" alt="AI/ML engineering, computer vision, agentic AI and full-stack AI" width="100%" />
-
-## Experience
-
-**AI/ML Engineer — Meetmux** · `Jun 2026 – Present`<br />
-Building AI-powered features and production-minded ML systems.
-
-
-**Data Analysis Intern — Cognifyz Technologies** · `Mar 2026 – May 2026`<br />
-Worked on data analysis tasks and practical data-driven problem solving.
-
-**Cloud Engineering Intern — InternAge** · `Feb 2026 – May 2026`<br />
-Gained practical experience in cloud engineering concepts and workflows.
-
-
-**Superintelligence & AI Intern — Chiac ASI** · `Feb 2026 – May 2026`<br />
-Explored concepts and emerging approaches related to artificial intelligence and superintelligence.
-
-
-
-**Machine Learning Intern — Feyn Labs** · `Oct 2024 – Mar 2025`<br />
-Worked on generative AI research and model development.
-
-**AI & ML Intern — Aerobosoft** · `Aug 2023 – Oct 2023`<br />
-Worked on machine learning and computer vision applications.
-
-## Featured Engineering
-
-<a href="https://github.com/Sreedev-a/AI-Operations-Copilot"><img src="./assets/projects/operations-copilot.svg" alt="AI Operations Copilot architecture" width="100%" /></a>
-
-### [AI Operations Copilot](https://github.com/Sreedev-a/AI-Operations-Copilot)
-
-Agentic AI platform for incident investigation, root-cause analysis, RAG-powered diagnostics, tool calling, evaluation, and human-approved remediation.
-
-`Python` · `FastAPI` · `Next.js` · `RAG` · `AI Agents` · `Docker`
-
-<a href="https://github.com/Sreedev-a/AI-Proctored-Assessment-Platform"><img src="./assets/projects/ai-assessment.svg" alt="AI-Proctored Assessment Platform architecture" width="100%" /></a>
-
-### [AI-Proctored Assessment Platform](https://github.com/Sreedev-a/AI-Proctored-Assessment-Platform)
-
-Intelligent online assessment platform combining adaptive testing, AI-powered webcam proctoring, evidence capture, risk analysis, and candidate/admin workflows.
-
-`Python` · `FastAPI` · `Next.js` · `TypeScript` · `OpenCV`
-
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/projects/retinal.svg" alt="Retinal image analysis pipeline" width="100%" /></td>
-    <td width="50%"><img src="./assets/projects/hand-gesture.svg" alt="Hand gesture recognition pipeline" width="100%" /></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Cardiovascular Disease Detection from Retinal Images</strong><br /><br />Computer-vision exploration using retinal images and convolutional neural networks.<br /><br /><code>Python · TensorFlow · Keras · OpenCV · CNN</code></td>
-    <td valign="top"><strong>Real-Time Hand Gesture Recognition</strong><br /><br />Real-time gesture recognition exploration built around hand landmarks and visual inference.<br /><br /><code>Python · OpenCV · MediaPipe · TensorFlow</code></td>
-  </tr>
-</table>
-
-## Currently Building
-
-- **AI Operations Copilot** — active portfolio project with deterministic incident scenarios, safe diagnostic tools, evaluation, and human approval.
-- **AI-Proctored Assessment Platform** — full-stack adaptive assessment and computer-vision proctoring workflows.
-- **Agentic AI workflows** — exploring retrieval, controlled tool calling, observability, and system evaluation.
-
-## AI Lab
-
-*Experiments, prototypes and engineering explorations.*
-
-`Experiment · RAG retrieval` &nbsp; `Prototype · AI agents` &nbsp; `Exploring · Tool calling`<br />
-`Experiment · Computer vision` &nbsp; `Exploring · ML evaluation` &nbsp; `Prototype · FastAPI APIs`<br />
-`Exploring · Automation` &nbsp; `Experiment · Model optimization`
-
-## Tech Ecosystem
-
-**Languages**<br />
-![Python](https://img.shields.io/badge/Python-0B1220?logo=python&logoColor=8DD8FF) ![Java](https://img.shields.io/badge/Java-0B1220?logo=openjdk&logoColor=8DD8FF) ![SQL](https://img.shields.io/badge/SQL-0B1220?logo=postgresql&logoColor=8DD8FF) ![C](https://img.shields.io/badge/C-0B1220?logo=c&logoColor=8DD8FF) ![TypeScript](https://img.shields.io/badge/TypeScript-0B1220?logo=typescript&logoColor=8DD8FF)
-
-**AI / ML & Data**<br />
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0B1220?logo=tensorflow&logoColor=8DD8FF) ![Keras](https://img.shields.io/badge/Keras-0B1220?logo=keras&logoColor=8DD8FF) ![scikit-learn](https://img.shields.io/badge/scikit--learn-0B1220?logo=scikitlearn&logoColor=8DD8FF) ![OpenCV](https://img.shields.io/badge/OpenCV-0B1220?logo=opencv&logoColor=8DD8FF) ![Pandas](https://img.shields.io/badge/Pandas-0B1220?logo=pandas&logoColor=8DD8FF)
-
-**Application Engineering**<br />
-![FastAPI](https://img.shields.io/badge/FastAPI-0B1220?logo=fastapi&logoColor=8DD8FF) ![Next.js](https://img.shields.io/badge/Next.js-0B1220?logo=nextdotjs&logoColor=8DD8FF) ![React](https://img.shields.io/badge/React-0B1220?logo=react&logoColor=8DD8FF) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-0B1220?logo=tailwindcss&logoColor=8DD8FF) ![Docker](https://img.shields.io/badge/Docker-0B1220?logo=docker&logoColor=8DD8FF) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0B1220?logo=githubactions&logoColor=8DD8FF)
-
-**AI Engineering**<br />
-`RAG` · `Embeddings` · `Agents` · `Tool Calling` · `Evaluation`
-
-## Systems & Concepts
-
-`REST APIs` · `ML inference` · `computer vision pipelines` · `agent orchestration` · `RAG` · `tool calling` · `event logging` · `human-in-the-loop` · `evaluation pipelines` · `Docker` · `CI/CD` · `model preprocessing` · `risk scoring` · `evidence capture`
-
-## Repository Spotlight
-
-- **[AI Operations Copilot](https://github.com/Sreedev-a/AI-Operations-Copilot)** — agentic incident investigation, evidence, evaluation, and controlled remediation.
-- **[AI-Proctored Assessment Platform](https://github.com/Sreedev-a/AI-Proctored-Assessment-Platform)** — adaptive testing with computer-vision proctoring and review workflows.
-- **[Portfolio](https://github.com/Sreedev-a/Sreedev-a.github.io)** — Apple-inspired glass portfolio built with Next.js, React, and TypeScript.
-- **[FriendCircle](https://github.com/Sreedev-a/FriendCircle)** — Kotlin and Jetpack Compose learning build focused on reusable mobile UI.
-
-## Selected Experiments
-
-- **[ML Environment Setup](https://github.com/Sreedev-a/meetmux)** — `Learning Build` · reproducible scikit-learn environment and MLflow smoke test.
-- **[Core ML Architecture](https://github.com/Sreedev-a/Task3_Core_Architecture)** — `Prototype` · configurable training, evaluation, and experiment logging structure.
-- **[Feature Profiling](https://github.com/Sreedev-a/task2_feature_profiling)** — `Experiment` · data and feature exploration workflow.
-
-## GitHub Activity
 
 <div align="center">
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhijith14&theme=github_dark"
-    alt="Sreedev A GitHub statistics"
-    height="165"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sreedev-a&theme=github_dark"
-    alt="Sreedev A repositories by language"
-    height="165"
-  />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3600&amp;pause=1200&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=52&amp;lines=Building+Production-Ready+AI+Systems;Computer+Vision+%E2%80%A2+Deep+Learning+%E2%80%A2+Generative+AI;LLMs+%E2%80%A2+RAG+%E2%80%A2+AI+Agents;From+Model+Training+to+Real-World+Deployment" width="100%" alt="Building Production-Ready AI Systems · Computer Vision, Deep Learning and Generative AI · LLMs, RAG and AI Agents · From Model Training to Real-World Deployment" />
+  <p>
+    <a href="https://sreedev-a.github.io"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&amp;logo=safari&amp;logoColor=67E8F9" alt="Portfolio" /></a>
+    <a href="https://github.com/Sreedev-a"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&amp;logo=github&amp;logoColor=67E8F9" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/sreedev514162/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&amp;logo=linkedin&amp;logoColor=67E8F9" alt="LinkedIn" /></a>
+    <a href="https://sreedev-a.github.io/resume/Sreedev_A_Resume.pdf"><img src="https://img.shields.io/badge/Resume-0B1220?style=for-the-badge&amp;logo=readdotcv&amp;logoColor=67E8F9" alt="Resume PDF" /></a>
+  </p>
+  <p><strong>Sree Dev A · AI/ML Engineer · Bengaluru, India</strong></p>
 </div>
 
-## Engineering Notes
+## About me
 
-- **Building AI Beyond the Notebook** — turning model experiments into usable software systems.
-- **Reliable Agentic Systems** — tool control, observability, evaluation, and human approval.
-- **Practical Computer Vision** — real-time inference, monitoring, and evidence-driven workflows.
-- **Evaluating AI Systems** — measuring system quality rather than relying only on demos.
+I'm Sree Dev A, an AI/ML Engineer focused on building practical, production-oriented intelligent systems using machine learning, deep learning, computer vision, generative AI and modern software engineering. I care about the complete path from an experiment to an application someone can use.
 
-## Now
+Engineering lifecycle: **DATA → MODEL → API → APPLICATION → DEPLOYMENT**
 
-Building agentic AI systems, improving production-oriented ML engineering skills, and experimenting with intelligent automation.
+My interests span visual understanding, LLMs, retrieval-augmented generation, AI agents, model optimization and full-stack AI applications.
 
-## Education
+## Featured projects
 
-**B.Tech — Artificial Intelligence & Machine Learning** · `2024`
+### AI-Proctored-Assessment-Platform
 
-<a href="https://sreedev-a.github.io"><img src="./assets/portfolio-cta.svg" alt="Explore the full portfolio — projects, experience and engineering work" width="100%" /></a>
+> **Flagship · Full-stack AI + computer vision**
+>
+> An adaptive assessment platform that brings testing, webcam analysis, browser-integrity monitoring and evidence review into one candidate/admin workflow.
 
-## Let's Build Something Intelligent.
+**Key features:** Performance-driven question selection; YOLO object/person detection; MediaPipe face and iris analysis; evidence capture, risk events and review dashboards.
 
-Interested in AI/ML engineering opportunities, collaborations, and challenging technical problems.
+**Stack:** Python · FastAPI · OpenCV · YOLO · MediaPipe · Next.js · TypeScript · SQLAlchemy
 
-[Portfolio](https://sreedev-a.github.io) · [LinkedIn](https://www.linkedin.com/in/sreedev514162/) · [Email](mailto:sreedev514162@gmail.com) · [GitHub](https://github.com/Sreedev-a)
+```text
+Webcam + browser signals
+           |
+   Vision + integrity checks
+           |
+   Evidence + risk events
+           |
+     Admin review
+```
+
+<a href="https://github.com/Sreedev-a/AI-Proctored-Assessment-Platform"><img src="https://img.shields.io/badge/Repository-172339?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Assessment platform repository" /></a>
+<a href="https://frontend-five-blond-42.vercel.app/login"><img src="https://img.shields.io/badge/Live_Demo-0E7490?style=flat-square" alt="Assessment platform live demo — sign-in page" /></a>
+
+### AI-Operations-Copilot
+
+An incident-investigation prototype with deterministic agent orchestration, local knowledge retrieval and exportable postmortems. Its synthetic scenarios and simulated remediation make the workflow inspectable and reproducible.
+
+**Key features:** Allowlisted diagnostic tools; ranked hypotheses; evidence and execution traces; scenario evaluation; human approval of simulated actions.
+
+**Stack:** Python · FastAPI · Next.js · TypeScript · Docker · GitHub Actions
+
+```text
+Incident -> Diagnostic plan
+                 |
+        Tools + local retrieval
+                 |
+        Evidence + hypotheses
+                 |
+        Approval -> Simulation
+```
+
+<a href="https://github.com/Sreedev-a/AI-Operations-Copilot"><img src="https://img.shields.io/badge/Repository-172339?style=flat-square&amp;logo=github&amp;logoColor=white" alt="AI Operations Copilot repository" /></a>
+
+### automatic-face-blur · Veil
+
+A local computer-vision utility for detecting frontal faces and applying adjustable blur before sharing images.
+
+**Key features:** OpenCV Haar-cascade detection; adjustable Gaussian blur; before/after preview; PNG export. Images stay in the local process; detection results can be reviewed before export.
+
+**Stack:** Python · OpenCV · Streamlit · NumPy · Pillow
+
+```text
+Image -> Face regions -> Blur
+                          |
+                   Preview -> PNG
+```
+
+<a href="https://github.com/Sreedev-a/automatic-face-blur"><img src="https://img.shields.io/badge/Repository-172339?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Veil automatic face blur repository" /></a>
+
+### human-atlas · Human Atlas
+
+An interactive 3D anatomy explorer built around the open BodyParts3D dataset. This frontend engineering project complements my AI work with interactive visualization and accessible product design.
+
+**Key features:** Anatomical search; selectable structures and body systems; isolation and exploded views; touch navigation; light/dark themes.
+
+**Stack:** React · TypeScript · Three.js · React Three Fiber · Vite · Tailwind CSS
+
+<a href="https://github.com/Sreedev-a/human-atlas"><img src="https://img.shields.io/badge/Repository-172339?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Human Atlas repository" /></a>
+<a href="https://human-atlas-kappa.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-0E7490?style=flat-square" alt="Human Atlas live demo" /></a>
+
+<details>
+<summary><strong>Computer vision explorations</strong></summary>
+
+These projects are documented in my [portfolio](https://sreedev-a.github.io); public source repositories are not currently linked.
+
+**Cardiovascular Disease Detection from Retinal Images** — A CNN-based exploration of cardiovascular indicators in retinal fundus images, covering preprocessing, model training and classification.
+
+**Stack:** Python · TensorFlow · Keras · OpenCV
+
+```text
+Retinal image -> Preprocessing
+                     |
+                    CNN
+                     |
+                Classification
+```
+
+**Real-Time Hand Gesture Recognition** — Webcam-based gesture recognition using hand landmarks and visual inference.
+
+**Stack:** Python · OpenCV · MediaPipe · TensorFlow
+
+```text
+Camera -> Landmarks -> Gesture class
+```
+
+</details>
+
+<details>
+<summary><strong>More engineering work &amp; experiments</strong></summary>
+
+- [FriendCircle](https://github.com/Sreedev-a/FriendCircle) — Kotlin/Jetpack Compose learning build with reusable mobile UI, efficient lists and accessible avatars.
+- [meetmux](https://github.com/Sreedev-a/meetmux) — ML environment setup and an MLflow smoke test.
+- [Task3_Core_Architecture](https://github.com/Sreedev-a/Task3_Core_Architecture) — Configurable training, evaluation and experiment logging scaffolding.
+- [Task4_Preprocessing](https://github.com/Sreedev-a/Task4_Preprocessing) — Preprocessor construction and serialization for later inference.
+- [task2_feature_profiling](https://github.com/Sreedev-a/task2_feature_profiling) — Data and feature exploration.
+- [Sreedev-a.github.io](https://github.com/Sreedev-a/Sreedev-a.github.io) — My Next.js, React and TypeScript portfolio.
+
+</details>
+
+## Technology stack
+
+**AI / Machine Learning**<br />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&amp;perline=3" alt="Python, TensorFlow, scikit-learn" height="40" /><br />
+Keras · NumPy · Pandas
+
+**Computer Vision**<br />
+<img src="https://skillicons.dev/icons?i=opencv&amp;perline=1" alt="OpenCV" height="40" /><br />
+MediaPipe · YOLO · CNNs
+
+**Generative AI**<br />
+Local retrieval and agent orchestration prototypes; exploring LLMs, RAG and tool calling.
+
+**Backend**<br />
+<img src="https://skillicons.dev/icons?i=fastapi&amp;perline=1" alt="FastAPI" height="40" /><br />
+REST APIs · SQLAlchemy · Streamlit
+
+**Frontend**<br />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,threejs&amp;perline=5" alt="Next.js, React, TypeScript, Tailwind CSS, Three.js" height="40" />
+
+**Databases**<br />
+<img src="https://skillicons.dev/icons?i=sqlite,postgres&amp;perline=2" alt="SQLite and PostgreSQL" height="40" /><br />
+SQLite assessment persistence; PostgreSQL deployment configuration.
+
+**DevOps / Deployment**<br />
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions&amp;perline=4" alt="Docker, Git, GitHub, GitHub Actions" height="40" />
+
+## Current focus
+
+- **LLMs, AI agents & RAG** — Retrieval quality, controlled tool calling and useful application workflows.
+- **Advanced computer vision & model optimization** — Better preprocessing, inference and evaluation.
+- **Production AI deployment** — Connecting models, APIs and interfaces with reproducible builds and observable behavior.
+
+## Engineering philosophy
+
+**Build → Measure → Improve → Deploy**<br />
+AI becomes valuable when models move beyond notebooks and become usable systems.
+
+<details>
+<summary><strong>Experience &amp; education</strong></summary>
+
+- **AI/ML Engineer — Meetmux** · Jun 2026–Present. AI-powered features and production-oriented ML systems.
+- **Data Analysis Intern — Cognifyz Technologies** · Mar–May 2026. Data analysis and practical data-driven problem solving.
+- **Cloud Engineering Intern — InternAge** · Feb–May 2026. Cloud engineering concepts and workflows.
+- **Superintelligence & AI Intern — Chiac ASI** · Feb–May 2026. Emerging AI concepts and approaches.
+- **Machine Learning Intern — Feyn Labs** · Oct 2024–Mar 2025. Generative AI research and model development.
+- **AI & ML Intern — Aerobosoft** · Aug–Oct 2023. Machine learning and computer vision applications.
+
+**B.Tech — Artificial Intelligence & Machine Learning** · 2024
+
+</details>
+
+## GitHub analytics
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sreedev-a&amp;theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sreedev-a&amp;theme=github" alt="Sreedev-a GitHub statistics" width="340" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sreedev-a&amp;theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sreedev-a&amp;theme=github" alt="Sreedev-a top languages by public repository count" width="340" />
+  </picture>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sreedev-a&amp;theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sreedev-a&amp;theme=github" alt="Sreedev-a contribution activity graph" width="100%" />
+</picture>
+
+## Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sreedev-a/Sreedev-a/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sreedev-a/Sreedev-a/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Sreedev-a/Sreedev-a/output/github-contribution-grid-snake.svg" alt="Animated snake tracing Sreedev-a's GitHub contribution grid" width="100%" />
+</picture>
+
+<sub>Updated daily by <a href="https://github.com/Sreedev-a/Sreedev-a/actions/workflows/snake.yml">GitHub Actions</a>.</sub>
+
+---
+
+Open to AI/ML engineering opportunities, collaborations and challenging technical problems.
+
+[Portfolio](https://sreedev-a.github.io) · [LinkedIn](https://www.linkedin.com/in/sreedev514162/) · [Email](mailto:sreedev514162@gmail.com)
