@@ -1,468 +1,157 @@
 <div align="center">
+  <img src="./assets/profile-banner.svg" alt="Sreedev A — AI/ML Engineer" width="100%" />
 
-<img src="./assets/github-banner.svg" width="100%" alt="Sree Dev A — AI/ML Engineer" />
+  <br />
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&center=true&vCenter=true&width=900&lines=Building+Production-Ready+AI+Systems;Computer+Vision+%E2%80%A2+Deep+Learning+%E2%80%A2+Generative+AI;LLMs+%E2%80%A2+RAG+%E2%80%A2+AI+Agents;From+Model+Training+to+Real-World+Deployment" alt="Typing animation" />
-
-<br/>
-
-<a href="https://sreedev-a.github.io">
-<img src="https://img.shields.io/badge/PORTFOLIO-Visit_Website-0B1220?style=for-the-badge&logo=safari&logoColor=38BDF8" />
-</a>
-
-<a href="https://github.com/Sreedev-a">
-<img src="https://img.shields.io/badge/GITHUB-Sreedev--a-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Sreedev-a&style=for-the-badge&label=PROFILE+VIEWS" />
-
+  <a href="https://sreedev-a.github.io"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=safari&logoColor=8DD8FF" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sreedev514162/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=8DD8FF" alt="LinkedIn" /></a>
+  <a href="https://github.com/Sreedev-a"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=8DD8FF" alt="GitHub" /></a>
+  <a href="mailto:sreedev514162@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=8DD8FF" alt="Email" /></a>
 </div>
 
----
-
-## 👨‍💻 About Me
-
-I'm **Sree Dev A**, an **AI/ML Engineer** based in Bengaluru, India, focused on building practical intelligent systems using machine learning, deep learning, computer vision, generative AI and modern software engineering.
-
-I enjoy taking AI ideas through the complete engineering lifecycle:
+## About
 
-<div align="center">
+I'm an **AI/ML Engineer** with a B.Tech in Artificial Intelligence & Machine Learning. I build intelligent software systems across machine learning, computer vision, generative AI, agents, and automation—with an emphasis on turning experiments into usable applications.
 
-### `DATA → MODEL → API → APPLICATION → DEPLOYMENT`
+## Engineering Snapshot
 
-</div>
-
-My interests include:
-
-* 🧠 Machine Learning & Deep Learning
-* 👁️ Computer Vision
-* 🤖 Generative AI & Large Language Models
-* 🧩 AI Agents
-* 📚 Retrieval-Augmented Generation
-* ⚡ Model Optimization
-* 🌐 Full-Stack AI Applications
-* 🐳 Containerized AI Deployment
-
----
-
-## 🧠 AI Engineering
-
-```text
-                              REAL-WORLD PROBLEM
-                                      │
-                                      ▼
-                               DATA PIPELINE
-                                      │
-                   ┌──────────────────┼──────────────────┐
-                   │                  │                  │
-                   ▼                  ▼                  ▼
-            MACHINE LEARNING   COMPUTER VISION    GENERATIVE AI
-                   │                  │                  │
-            Deep Learning           YOLO               LLMs
-             TensorFlow            OpenCV              RAG
-           Scikit-learn          MediaPipe          AI Agents
-                   │                  │                  │
-                   └──────────────────┼──────────────────┘
-                                      │
-                                      ▼
-                                 AI ENGINE
-                                      │
-                                      ▼
-                              FastAPI / REST API
-                                      │
-                                      ▼
-                             Next.js / TypeScript
-                                      │
-                                      ▼
-                                  Docker
-                                      │
-                                      ▼
-                                 DEPLOYMENT
-```
-
----
-
-# 🚀 Featured Projects
-
-## 🎯 AI-Proctored Assessment Platform
-
-> Full-stack AI-powered assessment platform combining adaptive testing with real-time computer-vision-based proctoring.
-
-The platform combines modern web engineering with computer vision to create intelligent assessment and monitoring workflows.
-
-### ✨ Features
-
-* Adaptive assessment workflow
-* Real-time webcam proctoring
-* Multiple-person detection
-* Device detection
-* Look-away monitoring
-* Evidence capture
-* Automated risk scoring
-* Candidate assessment interface
-* Administrative review workflow
-* Timed examinations
+<img src="./assets/engineering-snapshot.svg" alt="AI/ML engineering, computer vision, agentic AI and full-stack AI" width="100%" />
 
-### 🛠 Stack
+## Experience
 
-<p>
+**AI/ML Engineer — Meetmux** · `Jun 2026 – Present`<br />
+Building AI-powered features and production-minded ML systems.
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square"/>
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square"/>
 
-</p>
+**Data Analysis Intern — Cognifyz Technologies** · `Mar 2026 – May 2026`<br />
+Worked on data analysis tasks and practical data-driven problem solving.
 
-### 🔗 Project
+**Cloud Engineering Intern — InternAge** · `Feb 2026 – May 2026`<br />
+Gained practical experience in cloud engineering concepts and workflows.
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github)](https://github.com/Sreedev-a/AI-Proctored-Assessment-Platform)
 
----
+**Superintelligence & AI Intern — Chiac ASI** · `Feb 2026 – May 2026`<br />
+Explored concepts and emerging approaches related to artificial intelligence and superintelligence.
 
-## ❤️ Cardiovascular Disease Detection from Retinal Images
 
-> Deep-learning-based image classification system designed to identify cardiovascular disease indicators from retinal fundus imagery.
 
-```text
-Retinal Fundus Image
-         │
-         ▼
-     Preprocessing
-         │
-         ▼
-   Image Enhancement
-         │
-         ▼
-      CNN Model
-         │
-         ▼
- Feature Extraction
-         │
-         ▼
-   Classification
-         │
-         ▼
-      Prediction
-```
+**Machine Learning Intern — Feyn Labs** · `Oct 2024 – Mar 2025`<br />
+Worked on generative AI research and model development.
 
-### 🛠 Stack
+**AI & ML Intern — Aerobosoft** · `Aug 2023 – Oct 2023`<br />
+Worked on machine learning and computer vision applications.
 
-`Python` • `TensorFlow` • `Keras` • `OpenCV` • `CNN` • `Deep Learning`
+## Featured Engineering
 
----
+<a href="https://github.com/Sreedev-a/AI-Operations-Copilot"><img src="./assets/projects/operations-copilot.svg" alt="AI Operations Copilot architecture" width="100%" /></a>
 
-## 🖐️ Real-Time Hand Gesture Recognition
+### [AI Operations Copilot](https://github.com/Sreedev-a/AI-Operations-Copilot)
 
-> Computer-vision application for detecting and recognizing hand gestures through a webcam in real time.
+Agentic AI platform for incident investigation, root-cause analysis, RAG-powered diagnostics, tool calling, evaluation, and human-approved remediation.
 
-```text
-Camera Stream
-      │
-      ▼
- Frame Capture
-      │
-      ▼
-   MediaPipe
-      │
-      ▼
-Hand Landmarks
-      │
-      ▼
- ML / DL Model
-      │
-      ▼
-Gesture Prediction
-```
+`Python` · `FastAPI` · `Next.js` · `RAG` · `AI Agents` · `Docker`
 
-### 🛠 Stack
+<a href="https://github.com/Sreedev-a/AI-Proctored-Assessment-Platform"><img src="./assets/projects/ai-assessment.svg" alt="AI-Proctored Assessment Platform architecture" width="100%" /></a>
 
-`Python` • `OpenCV` • `MediaPipe` • `TensorFlow`
+### [AI-Proctored Assessment Platform](https://github.com/Sreedev-a/AI-Proctored-Assessment-Platform)
 
----
+Intelligent online assessment platform combining adaptive testing, AI-powered webcam proctoring, evidence capture, risk analysis, and candidate/admin workflows.
 
-## 🧬 Human Atlas
+`Python` · `FastAPI` · `Next.js` · `TypeScript` · `OpenCV`
 
-> Interactive 3D human anatomy experience designed to make anatomical exploration more visual, interactive and engaging.
-
-<div align="left">
-
-[![Live Demo](https://img.shields.io/badge/OPEN_LIVE_DEMO-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://human-atlas-kappa.vercel.app)
-
-</div>
-
----
-
-## 🥷 Veil — Automatic Face Blur
-
-> Privacy-focused computer-vision utility for automatically detecting and anonymizing faces in images.
-
-### 🛠 Stack
-
-`Python` • `OpenCV` • `Streamlit` • `Computer Vision`
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github)](https://github.com/Sreedev-a/automatic-face-blur)
-
----
-
-# ⚡ Technology Stack
-
-## 🧠 AI / Machine Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
-
-<br/><br/>
-
-`Machine Learning` • `Deep Learning` • `CNN` • `NLP` • `Generative AI` • `LLMs` • `AI Agents`
-
-</div>
-
----
-
-## 👁️ Computer Vision
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=opencv" />
-
-<br/><br/>
-
-`OpenCV` • `MediaPipe` • `YOLO` • `Object Detection` • `Face Detection` • `Image Processing`
-
-</div>
-
----
-
-## 🌐 Full-Stack AI Engineering
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,fastapi,flask,tailwind" />
-
-<br/><br/>
-
-`Next.js` • `React` • `TypeScript` • `FastAPI` • `Flask` • `REST APIs` • `Tailwind CSS`
-
-</div>
-
----
-
-## 🗄️ Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" />
-
-</div>
-
----
-
-## ⚙️ Engineering & Deployment
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
-
-<br/><br/>
-
-`Git` • `GitHub` • `Docker` • `Linux` • `CI/CD` • `Model Deployment`
-
-</div>
-
----
-
-# 🔬 AI / ML Toolkit
-
-<table align="center">
-
-<tr>
-<td align="center"><b>Machine Learning</b></td>
-<td>Scikit-learn · KNN · K-Means · SVM · Random Forest · XGBoost · PCA</td>
-</tr>
-
-<tr>
-<td align="center"><b>Deep Learning</b></td>
-<td>TensorFlow · Keras · CNN · Neural Networks</td>
-</tr>
-
-<tr>
-<td align="center"><b>Computer Vision</b></td>
-<td>OpenCV · MediaPipe · YOLO · Object Detection · Image Processing</td>
-</tr>
-
-<tr>
-<td align="center"><b>Generative AI</b></td>
-<td>LLMs · RAG · AI Agents · Prompt Engineering</td>
-</tr>
-
-<tr>
-<td align="center"><b>Backend</b></td>
-<td>FastAPI · Flask · REST APIs · Python</td>
-</tr>
-
-<tr>
-<td align="center"><b>Frontend</b></td>
-<td>Next.js · React · TypeScript · Tailwind CSS</td>
-</tr>
-
-<tr>
-<td align="center"><b>Data</b></td>
-<td>NumPy · Pandas · Matplotlib · SciPy</td>
-</tr>
-
-<tr>
-<td align="center"><b>Infrastructure</b></td>
-<td>Docker · Linux · Git · GitHub Actions</td>
-</tr>
-
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/projects/retinal.svg" alt="Retinal image analysis pipeline" width="100%" /></td>
+    <td width="50%"><img src="./assets/projects/hand-gesture.svg" alt="Hand gesture recognition pipeline" width="100%" /></td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Cardiovascular Disease Detection from Retinal Images</strong><br /><br />Computer-vision exploration using retinal images and convolutional neural networks.<br /><br /><code>Python · TensorFlow · Keras · OpenCV · CNN</code></td>
+    <td valign="top"><strong>Real-Time Hand Gesture Recognition</strong><br /><br />Real-time gesture recognition exploration built around hand landmarks and visual inference.<br /><br /><code>Python · OpenCV · MediaPipe · TensorFlow</code></td>
+  </tr>
 </table>
 
----
+## Currently Building
 
-# 📊 GitHub Analytics
+- **AI Operations Copilot** — active portfolio project with deterministic incident scenarios, safe diagnostic tools, evaluation, and human approval.
+- **AI-Proctored Assessment Platform** — full-stack adaptive assessment and computer-vision proctoring workflows.
+- **Agentic AI workflows** — exploring retrieval, controlled tool calling, observability, and system evaluation.
 
-<div align="center">
+## AI Lab
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sreedev-a&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" />
+*Experiments, prototypes and engineering explorations.*
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreedev-a&layout=compact&hide_border=true&theme=transparent" />
+`Experiment · RAG retrieval` &nbsp; `Prototype · AI agents` &nbsp; `Exploring · Tool calling`<br />
+`Experiment · Computer vision` &nbsp; `Exploring · ML evaluation` &nbsp; `Prototype · FastAPI APIs`<br />
+`Exploring · Automation` &nbsp; `Experiment · Model optimization`
 
-</div>
+## Tech Ecosystem
 
----
+**Languages**<br />
+![Python](https://img.shields.io/badge/Python-0B1220?logo=python&logoColor=8DD8FF) ![Java](https://img.shields.io/badge/Java-0B1220?logo=openjdk&logoColor=8DD8FF) ![SQL](https://img.shields.io/badge/SQL-0B1220?logo=postgresql&logoColor=8DD8FF) ![C](https://img.shields.io/badge/C-0B1220?logo=c&logoColor=8DD8FF) ![TypeScript](https://img.shields.io/badge/TypeScript-0B1220?logo=typescript&logoColor=8DD8FF)
 
-# 📈 Contribution Activity
+**AI / ML & Data**<br />
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0B1220?logo=tensorflow&logoColor=8DD8FF) ![Keras](https://img.shields.io/badge/Keras-0B1220?logo=keras&logoColor=8DD8FF) ![scikit-learn](https://img.shields.io/badge/scikit--learn-0B1220?logo=scikitlearn&logoColor=8DD8FF) ![OpenCV](https://img.shields.io/badge/OpenCV-0B1220?logo=opencv&logoColor=8DD8FF) ![Pandas](https://img.shields.io/badge/Pandas-0B1220?logo=pandas&logoColor=8DD8FF)
 
-<div align="center">
+**Application Engineering**<br />
+![FastAPI](https://img.shields.io/badge/FastAPI-0B1220?logo=fastapi&logoColor=8DD8FF) ![Next.js](https://img.shields.io/badge/Next.js-0B1220?logo=nextdotjs&logoColor=8DD8FF) ![React](https://img.shields.io/badge/React-0B1220?logo=react&logoColor=8DD8FF) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-0B1220?logo=tailwindcss&logoColor=8DD8FF) ![Docker](https://img.shields.io/badge/Docker-0B1220?logo=docker&logoColor=8DD8FF) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0B1220?logo=githubactions&logoColor=8DD8FF)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreedev-a&hide_border=true&area=true&theme=github-compact" width="100%" alt="GitHub Activity Graph"/>
+**AI Engineering**<br />
+`RAG` · `Embeddings` · `Agents` · `Tool Calling` · `Evaluation`
 
-</div>
+## Systems & Concepts
 
----
+`REST APIs` · `ML inference` · `computer vision pipelines` · `agent orchestration` · `RAG` · `tool calling` · `event logging` · `human-in-the-loop` · `evaluation pipelines` · `Docker` · `CI/CD` · `model preprocessing` · `risk scoring` · `evidence capture`
 
-# 🐍 Contribution Snake
+## Repository Spotlight
 
-<div align="center">
+- **[AI Operations Copilot](https://github.com/Sreedev-a/AI-Operations-Copilot)** — agentic incident investigation, evidence, evaluation, and controlled remediation.
+- **[AI-Proctored Assessment Platform](https://github.com/Sreedev-a/AI-Proctored-Assessment-Platform)** — adaptive testing with computer-vision proctoring and review workflows.
+- **[Portfolio](https://github.com/Sreedev-a/Sreedev-a.github.io)** — Apple-inspired glass portfolio built with Next.js, React, and TypeScript.
+- **[FriendCircle](https://github.com/Sreedev-a/FriendCircle)** — Kotlin and Jetpack Compose learning build focused on reusable mobile UI.
 
-<picture>
+## Selected Experiments
 
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/Sreedev-a/Sreedev-a/output/github-contribution-grid-snake-dark.svg"
-/>
+- **[ML Environment Setup](https://github.com/Sreedev-a/meetmux)** — `Learning Build` · reproducible scikit-learn environment and MLflow smoke test.
+- **[Core ML Architecture](https://github.com/Sreedev-a/Task3_Core_Architecture)** — `Prototype` · configurable training, evaluation, and experiment logging structure.
+- **[Feature Profiling](https://github.com/Sreedev-a/task2_feature_profiling)** — `Experiment` · data and feature exploration workflow.
 
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/Sreedev-a/Sreedev-a/output/github-contribution-grid-snake.svg"
-/>
-
-<img
-alt="GitHub contribution snake"
-src="https://raw.githubusercontent.com/Sreedev-a/Sreedev-a/output/github-contribution-grid-snake.svg"
-width="100%"
-/>
-
-</picture>
-
-</div>
-
----
-
-# 🎯 Current Focus
+## GitHub Activity
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║        🧠 LARGE LANGUAGE MODELS                  ║
-║                                                  ║
-║        🤖 AI AGENTS                              ║
-║                                                  ║
-║        📚 RETRIEVAL-AUGMENTED GENERATION         ║
-║                                                  ║
-║        👁️ ADVANCED COMPUTER VISION               ║
-║                                                  ║
-║        ⚡ MODEL OPTIMIZATION                      ║
-║                                                  ║
-║        🐳 PRODUCTION AI DEPLOYMENT               ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
-```
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhijith14&theme=github_dark"
+    alt="Sreedev A GitHub statistics"
+    height="165"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sreedev-a&theme=github_dark"
+    alt="Sreedev A repositories by language"
+    height="165"
+  />
 
 </div>
 
----
+## Engineering Notes
 
-# 💡 Engineering Philosophy
+- **Building AI Beyond the Notebook** — turning model experiments into usable software systems.
+- **Reliable Agentic Systems** — tool control, observability, evaluation, and human approval.
+- **Practical Computer Vision** — real-time inference, monitoring, and evidence-driven workflows.
+- **Evaluating AI Systems** — measuring system quality rather than relying only on demos.
 
-<div align="center">
+## Now
 
-### `Build → Measure → Improve → Deploy`
+Building agentic AI systems, improving production-oriented ML engineering skills, and experimenting with intelligent automation.
 
-<br/>
+## Education
 
-> AI becomes valuable when models move beyond notebooks and become usable systems.
+**B.Tech — Artificial Intelligence & Machine Learning** · `2024`
 
-</div>
+<a href="https://sreedev-a.github.io"><img src="./assets/portfolio-cta.svg" alt="Explore the full portfolio — projects, experience and engineering work" width="100%" /></a>
 
----
+## Let's Build Something Intelligent.
 
-# 🗺️ What I'm Exploring
+Interested in AI/ML engineering opportunities, collaborations, and challenging technical problems.
 
-```text
-                           AI ENGINEERING
-                                  │
-              ┌───────────────────┼───────────────────┐
-              │                   │                   │
-              ▼                   ▼                   ▼
-       COMPUTER VISION           LLMs             MLOps
-              │                   │                   │
-              ▼                   ▼                   ▼
-      Object Detection           RAG              Docker
-      Image Analysis          AI Agents            CI/CD
-      Video Analytics       Tool Calling        Monitoring
-              │                   │                   │
-              └───────────────────┼───────────────────┘
-                                  │
-                                  ▼
-                         PRODUCTION AI SYSTEMS
-```
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-### Interested in AI, Computer Vision, LLMs and building intelligent products.
-
-<br/>
-
-<a href="https://sreedev-a.github.io">
-<img src="https://img.shields.io/badge/Portfolio-Visit_My_Portfolio-0B1220?style=for-the-badge&logo=safari&logoColor=38BDF8"/>
-</a>
-
-<a href="https://github.com/Sreedev-a">
-<img src="https://img.shields.io/badge/GitHub-Sreedev--a-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Sreedev-a&label=PROFILE+VIEWS&style=flat-square"/>
-
-<br/><br/>
-
-### ⚡ Building intelligent systems, one model at a time.
-
-<sub>Designed & built by Sree Dev A</sub>
-
-</div>
+[Portfolio](https://sreedev-a.github.io) · [LinkedIn](https://www.linkedin.com/in/sreedev514162/) · [Email](mailto:sreedev514162@gmail.com) · [GitHub](https://github.com/Sreedev-a)
