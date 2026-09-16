@@ -1,12 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="Sreedev A — AI/ML Engineer" width="100%" />
-
-  <br />
-
-  <a href="https://sreedev-a.github.io"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=safari&logoColor=8DD8FF" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/sreedev514162/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=8DD8FF" alt="LinkedIn" /></a>
-  <a href="https://github.com/Sreedev-a"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=8DD8FF" alt="GitHub" /></a>
-  <a href="mailto:sreedev514162@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=8DD8FF" alt="Email" /></a>
+  <img src="./assets/github-banner.svg" width="100%" alt="Sree Dev A — AI / ML Engineer. Machine learning, computer vision and generative AI." />
 </div>
 
 ## About
